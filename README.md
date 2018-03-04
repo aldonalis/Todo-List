@@ -1,4 +1,4 @@
-Todo-list application made during "Web Develope Bootcamp" course on Udemy.com
-<br>Tick off your tasks and get more organised using this app.
-
-Preview - <a href="https://aldonalis.github.io/Todo-List/">click here</a>
+# Todo-list 
+<p>Tick off your tasks and get more organised using this app!</p>
+<p>Created as an excercise during 'Web Developer Bootcamp' on Udemy.com</p>
+<a href="https://aldonalis.github.io/Todo-List/">Preview</a>
